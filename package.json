@@ -1,0 +1,9 @@
+{
+  "name": "lolchat",
+  "title": "lolchat",
+  "id": "jid1-oFD4BKHKjYV8BA",
+  "description": "landsoflords.fr community plugin",
+  "author": "Maltir/kaylee (original plugin), Meewan(port)",
+  "license": "ISC license",
+  "version": "0.1"
+}
